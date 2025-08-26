@@ -1,5 +1,5 @@
 test:
-  property: test-property-from-global-config
+  property: test-property-4
 features:
   - featureName: FEATURE-1
     isEnabled: true
