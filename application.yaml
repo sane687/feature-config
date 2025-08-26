@@ -4,4 +4,4 @@ features:
   - featureName: FEATURE-1
     enabled: false
   - featureName: FEATURE-2
-    enabled: false
+    enabled: true
