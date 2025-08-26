@@ -2,6 +2,6 @@ test:
   property: test-property-4
 features:
   - featureName: FEATURE-1
-    enabled: false
+    enabled: true
   - featureName: FEATURE-2
     enabled: true
