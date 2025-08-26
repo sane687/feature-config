@@ -1,2 +1,7 @@
 test:
   property: test-property-4
+features:
+  - featureName: FEATURE-1
+    isEnabled: true
+  - featureName: FEATURE-2
+    isEnabled: false
